@@ -23,4 +23,5 @@ Select a color and copy the HEX/RGB code
 Apply it to your design or code effortlessly
 
 **Screenshots**
-![Screenshot]([https://github.com/pratapaditya/color-picker-chrome-Extension-/blob/main/Screenshhot.png])
+
+![Screenshot][<img src="Screenshhot.png">]
